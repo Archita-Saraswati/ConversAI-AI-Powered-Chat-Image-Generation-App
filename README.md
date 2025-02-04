@@ -48,13 +48,13 @@ To run this project, you will need to add the following environment variables to
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Gemini-Clone-AI-Image-Generator.git
+git clone https://github.com/yourusername/Gemini-Chatbot-DALL-E-Image-Generator.git
 ```
 
 Go to the project directory:
 
 ```bash
-cd Gemini-Clone-AI-Image-Generator
+cd Gemini-Chatbot-DALL-E-Image-Generator
 ```
 
 Install dependencies:
