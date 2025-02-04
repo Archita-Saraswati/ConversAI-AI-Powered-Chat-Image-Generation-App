@@ -63,7 +63,7 @@ Install dependencies:
 npm install
 ```
 
-Start the server
+Start the server:
 
 ```bash
 npm run dev
