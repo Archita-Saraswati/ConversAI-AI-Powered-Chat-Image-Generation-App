@@ -1,5 +1,5 @@
 
-# Gemini Chatbot & DALL·E Image Generator
+# ConversAI – AI-Powered Chat & Image Generation App
 
 This project is a React-based AI application that integrates the Gemini API for AI-driven chatbot interactions and OpenAI’s DALL·E for AI-powered image generation. It allows users to engage in intelligent conversations and generate AI-created images based on text prompts, offering an interactive and creative experience.
 
